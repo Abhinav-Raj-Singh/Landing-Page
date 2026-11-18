@@ -47,3 +47,15 @@ ul{
     font-size: 18px;
     
 }
+
+.su {
+    display: flex;
+    width: fit-content;
+    background-color: blue;
+    padding: 3px 20px 3px 20px;
+    border-radius: 4px;
+    color: #f9f1f8;
+    
+
+
+}
