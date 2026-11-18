@@ -17,3 +17,8 @@ body{
     justify-content: space-around;
 }
 
+ul{
+    display: flex;
+    
+    gap: 20px;
+}
