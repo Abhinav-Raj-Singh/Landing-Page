@@ -6,3 +6,8 @@ body{
 .topsection .header ul{
     list-style-type: none;
 }
+
+.topsection{
+    background-color: #1f2937;
+    color: #f9faf8;
+}
