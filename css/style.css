@@ -76,7 +76,7 @@ ul{
     padding: 100px 100px;
     display: flex;
     white-space: nowrap;
-
+    
 }
 
 .intro{
@@ -196,5 +196,38 @@ ul{
 }
 
 
+.cta{
+    color:white;
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 90px 10%;
+    padding: 50px 100px;
+    border-radius: 10px;
+    background-color: #3882F6;
+   
+    
+}
+.ctah{
+    font-size: 26px;
+    font-weight: 700;
+    
+}
 
+.ctat{
+    align-self: center;
+}
+.one{
+    align-self: center;
+}
+.btn{
+    border: 2px solid white;
+    border-radius: 8px;
+    padding: 8px 32px;
+    font-weight: 700;
+    width: 80px;
+}
 
