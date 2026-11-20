@@ -166,12 +166,14 @@ ul{
     color: #757c85; 
 }
 
-.quote{
+.qt{
     background-color: #E5E7EB;
     font-size: 36px;
     color: #1f2937;
     font-weight: 300;
     font-style: italic;
+    display: flex;
+    justify-content: center;
 }
 
 
