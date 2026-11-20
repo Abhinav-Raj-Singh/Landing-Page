@@ -231,3 +231,10 @@ ul{
     width: 80px;
 }
 
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding:  40px ;
+}
+
